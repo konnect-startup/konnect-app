@@ -6,19 +6,19 @@ Description Will be added soon!
 
 Setup your development and production environment as explained in the chapters below:
 
-### For Android:
-## development
+## For Android:
+### development
 - Will be added soon!
 
-## production
+### production
 - Will be added soon!
 
-### For iOS:
+## For iOS:
 
-## development
+###  development
 - Will be added soon!
 
-## production
+### production
 - Will be added soon!
 
 
